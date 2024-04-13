@@ -1,4 +1,4 @@
-package api.user.responses;
+package framework.services.UserService.requests;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
